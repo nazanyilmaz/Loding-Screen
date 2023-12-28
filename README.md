@@ -4,4 +4,5 @@
 
 <h3>Project Gif</h3>
 
-![ezgif com-cut (4)](https://github.com/nazanyilmaz/Loding-Screen/assets/147782488/893113a9-50d4-417a-bdaf-b4c723343681)
+
+![ezgif com-cut (5)](https://github.com/nazanyilmaz/Loding-Screen/assets/147782488/f17de3fc-a8f8-4603-9ac6-505b1341205b)
