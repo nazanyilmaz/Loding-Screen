@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap');
+*{
+    box-sizing: border-box;
+}
+body{
+
+    font-family: 'Rubik Moonrocks', cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+    position: relative;
+
+}
+.main{
+    position: absolute;
+    top: 30%;
+    left: 65%;
+    font-size: 75px;
+    color: rgba(181, 24, 24, 0.922);
+    letter-spacing: 3px;
+    
+
+
+}
+.title{
+    position: absolute;
+    top: 90%;
+    left: 80%;
+    font-size: 25px;
+    letter-spacing: 4px;
+    
+}
+.title span{
+   color: rgba(181, 24, 24, 0.922);
+   font-size: 30px;
+   letter-spacing: 0px;
+}
+.bg
+{
+    background: no-repeat center/cover url(kokia.jpeg);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    height: 100vh;
+    z-index: -1;
+    filter: blur(0px);
+}
+.loading-text{
+    color: rgba(239, 30, 30, 0.894);
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-left: 40%;
+}
